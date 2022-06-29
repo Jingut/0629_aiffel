@@ -183,5 +183,7 @@ pip install tensorflow==2.6.0
 
 https://dasima.xyz/linux-cd-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C/
 절대경로 상대경로란?
+상대경로란 자기 위치를 기준으로 뒤로가기나 앞으로 가기를 예로 들수 있고
 
+절대경로는 무조건 홈에서부터 트리처럼 이어지는 경로를 표현하는 방식이라고 할 수 있다.
 '''
