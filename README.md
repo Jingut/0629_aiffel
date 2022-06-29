@@ -181,5 +181,7 @@ pip install tensorflow==2.6.0
 
 아나콘다 관련 치트시트 https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
 
+https://dasima.xyz/linux-cd-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C/
+절대경로 상대경로란?
 
 '''
